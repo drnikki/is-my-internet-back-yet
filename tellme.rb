@@ -20,6 +20,7 @@ end
 # ETA until computer crash?
 while not internet_connection?
   puts "no internet connection"
+  sleep 120 # but you can change this, of course.
 end
 
 # once there IS an internet connection, send a text message.  
