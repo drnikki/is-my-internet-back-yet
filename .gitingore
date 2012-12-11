@@ -1,2 +1,3 @@
 .*
 twilio_secrets.rb
+.DS_Store
