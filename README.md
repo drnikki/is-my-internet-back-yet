@@ -7,7 +7,10 @@ This will send me a text message via Twilio when the internet is back.
 
 
 ### Setup
-Copy twilio_secrets.default.rb to twilio_secrets.rb.  Fill it in with your twilio credentials.
-Change permissions to make tellme.rb executeable
+Copy twilio_secrets.default.rb to twilio_secrets.rb.  Fill it in with your twilio credentials and your phone number information.
 
-Use Ruby 1.9.3. I mean, really.
+Change permissions to make tellme.rb executeable.  
+
+Before you leave your broken internet, run it.  Go unto the the world, waiting for the text message.
+
+Also, use Ruby 1.9.3
